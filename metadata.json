@@ -1,0 +1,6 @@
+{
+  "name": "大口呼吸 - 森林療癒活動網站",
+  "description": "邀您走入森林，放慢腳步，感受大地與自然的呼吸。提供活動資訊、森林攝影集與線上報名功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
